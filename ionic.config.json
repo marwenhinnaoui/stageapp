@@ -1,0 +1,7 @@
+{
+  "name": "stageapp",
+  "integrations": {
+    "cordova": {}
+  },
+  "type": "angular"
+}
